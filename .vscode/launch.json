@@ -1,0 +1,28 @@
+<html lang="pt-BR">
+ <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title></title>
+ </head>
+ <header>
+  <div class="cabeçalho">
+   <h3>OIIIII, MOZINHO!</h3>
+  </div>
+</header>
+<body>
+  <h1>Você aceita ser meu namoradinho???</h1>
+  <div class="yes">
+<link rel="stysheet" href="css/documento.css">
+<section>
+      <figure class="gif">
+            <img src="https://media0.giphy.com/media/mKJK4Sdubt8zEjzaD0/giphy.gif?cid=790b7611364148a33985d02095b9c7c557ec0738bbae6370&rid=giphy.gif&ct=g">
+      </figure>
+</section>
+  
+<a href="https://youtube.com/shorts/EzigfRBsedk?feature=share"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">SIM</button></a>
+   </div>
+</body>
+<script src="script.js"></script>
+</html>
